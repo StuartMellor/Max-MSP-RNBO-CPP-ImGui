@@ -1,0 +1,12 @@
+# ninja log v5
+7	264	6982513661023583	CMakeFiles/rhythmcollector.dir/C_/Users/stuar/Documents/Software/CPP/Libraries/imgui/imgui_demo.cpp.obj	6a42409547c1be50
+13	265	6982513661048636	CMakeFiles/rhythmcollector.dir/C_/Users/stuar/Documents/Software/CPP/Libraries/imgui/imgui_tables.cpp.obj	b773873ef2b2bfc6
+21	320	6982513661599375	CMakeFiles/rhythmcollector.dir/C_/Users/stuar/Documents/Software/CPP/Libraries/imgui/backends/imgui_impl_opengl3.cpp.obj	5cf3a1c69b747a6a
+18	455	6982513662949656	CMakeFiles/rhythmcollector.dir/C_/Users/stuar/Documents/Software/CPP/Libraries/imgui/backends/imgui_impl_glfw.cpp.obj	e6cfadd7ad16c91f
+24	548	6982513663881046	CMakeFiles/rhythmcollector.dir/C_/Users/stuar/Documents/Software/CPP/Libraries/imgui/backends/imgui_impl_dx11.cpp.obj	a4f14ae22b3fc18b
+10	332	6982513661689796	CMakeFiles/rhythmcollector.dir/C_/Users/stuar/Documents/Software/CPP/Libraries/imgui/imgui_draw.cpp.obj	89ff73bd7e8966fe
+27	356	6982513661962995	CMakeFiles/rhythmcollector.dir/C_/Users/stuar/Documents/Software/CPP/Libraries/imgui/backends/imgui_impl_win32.cpp.obj	14ffa58384d42795
+15	367	6982513662058073	CMakeFiles/rhythmcollector.dir/C_/Users/stuar/Documents/Software/CPP/Libraries/imgui/imgui_widgets.cpp.obj	1fd1b9f75cd0bfa
+5	566	6982513664026377	CMakeFiles/rhythmcollector.dir/C_/Users/stuar/Documents/Software/CPP/Libraries/imgui/imgui.cpp.obj	12a433e131c8d0e5
+2	593	6982513664340057	CMakeFiles/rhythmcollector.dir/main.cpp.obj	eeafa1ff2d40e908
+593	1930	6982513666768403	rhythmcollector.exe	ad9facb940a79b59
